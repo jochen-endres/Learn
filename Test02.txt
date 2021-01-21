@@ -1,4 +1,8 @@
 Zeile1
 Zeile2
 Zeile3
+<<<<<<< HEAD
 Zeile4
+=======
+Zeile4 new on Change3
+>>>>>>> 9ad2f1eb206672027d8c7dee2337c9463faab47d
